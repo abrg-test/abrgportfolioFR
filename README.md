@@ -1,5 +1,7 @@
 # Portfolio de Audrey Borrego
 Ce portfolio est une collection de mes travaux et projets de test QA.
+
+[EN Version](https://github.com/abrg-test/abrgportfolioEN)
 ## À propos
 🙌 Je suis une testeuse QA débutante passionnée par l'amélioration de l'expérience utilisateur.
 ### [Linkedin](https://www.linkedin.com/in/audrey-borrego-08a52095/)
