@@ -3,6 +3,8 @@ Ce portfolio est une collection de mes travaux et projets de test QA.
 
 Vous trouverez un exemple de Test Plan dans le projet Yarnder ainsi que des exemples de rapports de bugs dans l'onglet Issues.
 
+Pour des exemples de mes travaux d'automatisation de tests avec Playwright, voir ce [portfolio dédié](https://github.com/abrg-test/playwright-automated-tests).
+
 [EN Version](https://github.com/abrg-test/abrgportfolioEN)
 ## À propos
 🙌 Je suis une testeuse QA débutante passionnée par l'amélioration de l'expérience utilisateur.
