@@ -15,5 +15,5 @@ Yarnder est un outil et base de données fictive qui permettrait aux tricoteurs 
 [Projet](https://github.com/abrg-test/abrgportfolioFR/blob/main/Projet%20Yarnder.FR.pdf) & [Plan Test](https://github.com/abrg-test/abrgportfolioFR/blob/main/Yarnder%20Plan%20Test.FR.pdf)
 ## Ressources
 Vous trouverez ci-dessous la liste des sites utilisés pour les rapports de bugs et les suggestions d'amélioration :
-* https://qa-practice.netlify.app/
+* https://qa-practice.razvanvancea.ro/bugs-form.html
 * https://sweetshop.netlify.app/
